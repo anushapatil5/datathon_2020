@@ -1,6 +1,7 @@
 # Datathon organized by Understood.org
 
 This repository contains the code and data for the work submitted at the datathon organized by Understood.org
+
 <ins> My team secured First place at the Datathon </ins>
 
 - My team and I designed and built a recommendation engine for articles based on previous history, interests and/or similarity with respect to other users
